@@ -10,7 +10,13 @@ It is a simple arcade game in which you have to dodge the enemies and collect th
 6. After completing the game, the player is shown his score details and asked if he wants to play again.
 
 ## How to play this game
-1. Open the index.html in your web browser to start playing
+1. Open the index.html in your web browser to start playing.
+2. Move the player using up, down, left, right arrow keys.
+3. Avoid collision with the bugs (they cost a life).
+4. Collect gems (one at a time) to increase your points.
+5. Avoid collision with obstacles, they have negative points.
+6. Attain a score of 100 and above to win the game.
+7. If you run out of the 4 lives given, game is over.
 
 ## Techhnologies used
 1. HTML
